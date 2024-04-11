@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Doctor Who </title>
+</head>
+<style>
+body {
+  background-image: url("space.png");
+  background-size: cover;
+}
+h1 {
+  text-shadow: 4px 4px black
+}
+</style>
+<body style= text-align:center;>
+
+<h1 style= "color:magenta; font-family:comic sans ms; font-size:75px; border-color:rgba (0, 0, 255, .7); border-width:10px; background-color:rgba(0, 0, 255, .5);"><b><i><em>YIPPEE DOCTOR WHO!!!</em></i></b></h1>
+
+<img src= "animation1.gif" width= 48% height= 48%>
+
+<p style= "color:magenta; font-family:comic sans ms; font-size:50px; background-color:rgba(0,0,255,.7);">"Hello, I'm the Doctor. Basically... <i>run</i>."</p>
+
+</body>
+</html>
